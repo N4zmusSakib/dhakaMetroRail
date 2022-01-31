@@ -1,2 +1,2 @@
-# dhakaMetroRail
+# Dhaka Metro Rail
 Railway plays a vital role in our country. Dhaka Metro Rail system will start its operation in October 2022. Therefore, we need a system that manages and records all the data regarding the Metro Rail system. For this reason, I made a system where users can buy tickets using online payment and get ticket numbers and PINs. Using the ticket numbers and PIN users can get in and out on the train.
